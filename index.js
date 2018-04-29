@@ -3,5 +3,5 @@ return "Happy holidays!"
 }
 
 function happyHolidaysTo(Set){
-  return "Happy holidays, Set"
+  return "Happy holidays, you!"
 }
